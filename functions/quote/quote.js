@@ -5,7 +5,7 @@ exports.handler = async (event, context) => {
   try {
     return {
       statusCode: 200,
-      body: JSON.stringify({ message: quotes.getQuote().text}),
+      body: JSON.stringify({ message: `Quote of the day: "${quotes.getQuote().text}` }),
       // // more keys you can return:
       headers: { "Content-Type": "application/json" },
       // isBase64Encoded: true,
