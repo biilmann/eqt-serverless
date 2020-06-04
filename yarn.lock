@@ -4624,6 +4624,10 @@ inquirer@^7.0.0:
     strip-ansi "^6.0.0"
     through "^2.3.6"
 
+inspirational-quotes@^1.0.8:
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/inspirational-quotes/-/inspirational-quotes-1.0.8.tgz#18220cc3e421bdd3b83b0d2804d6317f4731981e"
+
 internal-ip@^4.3.0:
   version "4.3.0"
   resolved "https://registry.yarnpkg.com/internal-ip/-/internal-ip-4.3.0.tgz#845452baad9d2ca3b69c635a137acb9a0dad0907"
